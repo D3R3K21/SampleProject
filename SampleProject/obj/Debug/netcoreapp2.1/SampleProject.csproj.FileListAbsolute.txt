@@ -1,0 +1,11 @@
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\netcoreapp2.1\SampleProject.deps.json
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\netcoreapp2.1\SampleProject.runtimeconfig.json
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\netcoreapp2.1\SampleProject.runtimeconfig.dev.json
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\netcoreapp2.1\SampleProject.dll
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\netcoreapp2.1\SampleProject.pdb
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp2.1\SampleProject.csprojAssemblyReference.cache
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp2.1\SampleProject.csproj.CoreCompileInputs.cache
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp2.1\SampleProject.AssemblyInfoInputs.cache
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp2.1\SampleProject.AssemblyInfo.cs
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp2.1\SampleProject.dll
+c:\users\drose\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp2.1\SampleProject.pdb
